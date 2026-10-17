@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![openai-node — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # OpenAI TypeScript and JavaScript API Library
 
 [![NPM version](<https://img.shields.io/npm/v/openai.svg?label=npm%20(stable)>)](https://npmjs.org/package/openai) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/openai)
@@ -891,3 +895,7 @@ for lifecycle, deprecation, and release rules.
 ## Contributing
 
 See [the contributing documentation](./.github/CONTRIBUTING.md).
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
