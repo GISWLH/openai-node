@@ -1,0 +1,78 @@
+{
+  "repo": "GISWLH/openai-node",
+  "environment": "EHPC PBS",
+  "execution_scope": "Original stringifyQuery helper executed on EHPC with primitive and array query parameters. This verifies a bundled standalone helper only; it does not establish full SDK compatibility with the host Node runtime, and no API request was made.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "2209b3ed2edf74f38c6e927221f4013c86b97402e0b1f5aa73f3e1a434608994"
+  },
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false,
+  "source_files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "976c9af7b714b0b2d84703a1c16b32178da22f7324b95e438be20e4dd42c62de"
+    },
+    {
+      "path": "build-tool-provenance.json",
+      "sha256": "b2f422b9079a8babd8887778096ef20063c2cb9b3a768b09f6953e3bbe08484d"
+    },
+    {
+      "path": "esbuild",
+      "sha256": "98f635ee88526a7d9dd7a82c8a79f341c0247de8aa56d38158c0963892957829"
+    },
+    {
+      "path": "readme_demo.ts",
+      "sha256": "4999f73cf7c912ccc8a564d135fde7a37c3aa93b731f093fc0905b1fa919849c"
+    },
+    {
+      "path": "render_metrics.py",
+      "sha256": "4a6b0b073e6c04fd891cdf988a1b2fe276497fb41604544c20508ec94341682c"
+    },
+    {
+      "path": "source-provenance.json",
+      "sha256": "6c043da261f7c5cbfb2d49ffbaa6b0d6026b2d80995ff414e48620b1d828fe5b"
+    },
+    {
+      "path": "src/core/error.ts",
+      "sha256": "aea17690aeb31b3e46fa79f04d43c448134416a2f416d97e0f5d3accc0742257"
+    },
+    {
+      "path": "src/internal/errors.ts",
+      "sha256": "612ac2a985e5f6a4ae03c254d76be7de4dd43ae83a802d187097d18403c1c08f"
+    },
+    {
+      "path": "src/internal/qs/formats.ts",
+      "sha256": "af0aa5b7194de32ef694e241664e27825a15ae544df97327a936d2118a6182c3"
+    },
+    {
+      "path": "src/internal/qs/LICENSE.md",
+      "sha256": "d8c77eaffed7f1f874b97f66ee47a557ae24fd59bae8ae14f9b1b84f26a94d2f"
+    },
+    {
+      "path": "src/internal/qs/stringify.ts",
+      "sha256": "97f0e77bb2009ee5ecad192e715739a3241b91e10d243060ecca26c1c422956f"
+    },
+    {
+      "path": "src/internal/qs/types.ts",
+      "sha256": "cc82b7662a56d9245a58db9aad079e3656b8f341f85667a7299fb5cfeea4f1df"
+    },
+    {
+      "path": "src/internal/qs/utils.ts",
+      "sha256": "2ee220b652c224f8b12a4723b909c779cfcc3524872d0841a023d07002afab1a"
+    },
+    {
+      "path": "src/internal/utils/path.ts",
+      "sha256": "60f682879deaecad6977660d87fa45feaa0c5d711cf6bf5eaa287d0eba59abf1"
+    },
+    {
+      "path": "src/internal/utils/query.ts",
+      "sha256": "faae1a45ed5dbd2af90463b0cca75909775372e6a86ea6b76abec638965f8d17"
+    },
+    {
+      "path": "src/internal/utils/values.ts",
+      "sha256": "5c53ba5c6dbb70f45cbc4737520adba02e16d75cf01c7489312210249346b799"
+    }
+  ]
+}

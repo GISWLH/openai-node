@@ -899,3 +899,14 @@ See [the contributing documentation](./.github/CONTRIBUTING.md).
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![Original stringifyQuery helper executed on EHPC with primitive and array query parameters. This verifies a bundled standalone helper only; it does not establish full SDK compatibility with the host Node runtime, and no API request was made.](assets/readme/execution-result.png)
+
+Original stringifyQuery helper executed on EHPC with primitive and array query parameters. This verifies a bundled standalone helper only; it does not establish full SDK compatibility with the host Node runtime, and no API request was made.
+
+[Capture record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
